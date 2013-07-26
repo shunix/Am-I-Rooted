@@ -11,5 +11,13 @@
     <string name="info">Phone Info</string>
     <string name="nroot">Not Rooted</string>
     <string name="rooted">Rooted</string>
+    <string name="author">Author: </string>
+    <string name="website">http://www.shunix.com</string>
+    <string name="name">Shunix</string>
+    <string name="webpro">Website:</string>
+    <string name="email">admin@shunix.com</string>
+    <string name="emailpro">Email:</string>
+    <string name="version">1.0.0</string>
+    <string name="ok">OK</string>
 
 </resources>

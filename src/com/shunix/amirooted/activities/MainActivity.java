@@ -14,7 +14,7 @@ public class MainActivity extends FragmentActivity {
 		CheckRoot checkRoot = new CheckRoot();
 		setContentView(R.layout.container_layout);
 		getSupportFragmentManager().beginTransaction()
-				.add(R.id.container, checkRoot).addToBackStack(null).commit();
+				.add(R.id.container, checkRoot).commit();
 	}
 
 }
