@@ -5,8 +5,11 @@
     <string name="su">Su Path: </string>
     <string name="busybox">Busybox Path: </string>
     <string name="sudo">Sudo Path: </string>
-    <string name="isroot">Phone Rooted</string>
+    <string name="isroot">Phone Rooted: </string>
     <string name="unknown">Unknown</string>
     <string name="about">About</string>
+    <string name="info">Phone Info</string>
+    <string name="nroot">Not Rooted</string>
+    <string name="rooted">Rooted</string>
 
 </resources>

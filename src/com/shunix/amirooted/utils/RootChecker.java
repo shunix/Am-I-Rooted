@@ -3,7 +3,7 @@ package com.shunix.amirooted.utils;
 import java.io.File;
 
 public final class RootChecker {
-	public static boolean CheckRootAccess() {
+	public static boolean checkRootAccess() {
 		String buildTags = android.os.Build.TAGS;
 		if (buildTags != null && buildTags.contains("test-keys")) {
 			return true;
